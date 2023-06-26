@@ -78,4 +78,4 @@ https://playstationapi-bfns.onrender.com/orders
 https://playstationapi-bfns.onrender.com/updateOrder
 
 >delete orders
-http://localhost:3245/deleteOrder
+https://playstationapi-bfns.onrender.com/deleteOrder
